@@ -1,0 +1,1198 @@
+# Awesome GPT Images 2.6 GIF
+
+> Curated real-world ChatGPT / GPT Images 2.6 native GIF cases with copy-paste prompts. 139 cases: 52 with the author-published full prompt, 87 showcase-only (no public prompt). Prompts are verbatim from the source; never invented.
+
+Repository: https://github.com/GPTProto/awesome-gpt-image-2.6-gif
+
+Ordering: full prompts first, then showcase-only; within each category, ascending internal case id, then renumbered 1…N for display. Engagement metrics are listed when available but do not change order. Metrics fetched 2026-11-05T09:05:24.590Z.
+
+Fields: preview = mirrored GIF preview (direct image URL); source = original post. For showcase-only cases, do not fabricate a prompt.
+
+## Docs
+
+- [README (English)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/README.md)
+- [README (简体中文)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.zh-CN.md)
+- [README (繁體中文)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.zh-TW.md)
+- [README (日本語)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.ja.md)
+- [README (한국어)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.ko.md)
+- [README (Español)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.es.md)
+- [README (Português (Brasil))](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.pt-BR.md)
+- [README (Français)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.fr.md)
+- [README (Deutsch)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.de.md)
+- [README (Italiano)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.it.md)
+- [README (Русский)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.ru.md)
+- [README (Türkçe)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.tr.md)
+- [README (Tiếng Việt)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.vi.md)
+- [README (ไทย)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.th.md)
+- [README (Bahasa Indonesia)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.id.md)
+- [README (हिन्दी)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.hi.md)
+- [README (العربية)](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/translations/README.ar.md)
+- [RIGHTS.md](https://raw.githubusercontent.com/GPTProto/awesome-gpt-image-2.6-gif/main/RIGHTS.md): Media and prompt rights
+
+## Full prompts (52)
+
+### official — Official & partners (3)
+
+#### 1. Stock crash: chibi office worker bursts into tears
+
+- title_zh: 股价下跌：Q 版上班族崩溃流泪
+- category: Official & partners
+- author: OpenArt
+- source: https://openai.com/index/introducing-images-2-6/
+- preview: https://oss-us.gptproto.com/2026/11/05/d1c7a2d755ab42e09b10409ebc23dec9.gif
+- heat: 1000000000000
+- platform_tier: 0
+- prompt_language: en
+
+```text
+Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly plunging stock-market line chart. The sequence: hopeful expression, notices the chart falling, eyes widen, face crumples, large cartoon tears stream down both cheeks, then quietly wipes tears while still staring at the falling chart. Oversized round head, tiny body, big expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, same desk, monitor, outfit, and cozy miniature office background. Clear incremental facial and tear motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, warm pastel lighting, funny and sympathetic mood. No captions, no words, no numbers, no logos, no speech bubbles, no panel labels, no borders, no gutters.
+```
+
+#### 2. Stock rally: office worker cheers and throws cash
+
+- title_zh: 股价上涨：上班族欢呼撒纸钞
+- category: Official & partners
+- author: OpenArt
+- source: https://openai.com/index/introducing-images-2-6/
+- preview: https://oss-us.gptproto.com/2026/11/05/74ae8f8e252b4683bd750b20c3431b00.gif
+- heat: 1000000000000
+- platform_tier: 0
+- prompt_language: en
+
+```text
+Create a single animation sprite sheet for a seamless looping GIF. A super-cute chibi adult office worker sits at a desk watching a computer monitor with a clearly soaring stock-market line chart and a large upward arrow. The sequence: notices the chart rising, eyes widen with delight, jumps up cheering, grabs a handful of generic paper banknotes with no readable currency markings, then happily tosses the banknotes into the air like confetti while laughing. Oversized round head, tiny body, big sparkling expressive eyes, soft rounded features, messy fluffy hair, white shirt and loosened tie. Exactly 6 sequential frames arranged in a precise 3-column by 2-row grid, read left-to-right then top-to-bottom. Every panel has identical dimensions. Fixed front three-quarter camera, same character, desk, monitor, outfit, and cozy miniature office background. Clear incremental body, arm, and flying-paper motion; sixth frame transitions smoothly toward the first. Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, funny joyful mood. No captions, no words, no numbers, no logos, no real currency symbols, no speech bubbles, no panel labels, no borders, no gutters.
+```
+
+#### 3. Lantern monkey in a snowy forest
+
+- title_zh: 雪地森林里的提灯猴子
+- category: Official & partners
+- author: OpenAI Developers
+- source: https://developers.openai.com/api/docs/guides/image-prompting#generate-a-looping-gif
+- preview: https://oss-us.gptproto.com/2026/11/05/c881abe148ec4fbaaa1f769d6d4f197c.gif
+- heat: 1000000000000
+- platform_tier: 0
+- prompt_language: en
+
+```text
+A little monkey in an olive-green hooded coat stands in a snowy pine forest at dusk. A wooden cabin glows in the background. The monkey holds a glowing amber paper lantern at chest height, slowly lifts it, looks up and blinks, then lowers it back to its starting pose. Keep the lantern in its hands and the camera still. Make the motion loop smoothly.
+```
+
+
+### meme — Memes & stickers (11)
+
+#### 4. Top-hat frog: “ego be gone!”
+
+- title_zh: 礼帽青蛙：“ego be gone!”
+- category: Memes & stickers
+- author: Lucy / @princess414141
+- source: https://x.com/princess414141/status/2118144125354877152
+- preview: https://oss-us.gptproto.com/2026/11/05/9e757376152f4605a01a70709da4abd7.gif
+- heat: 13
+- platform_tier: 1
+- metrics: likes=13 reposts=0 replies=0 quotes=0
+- prompt_language: en
+
+```text
+dancing frog with a top hat on, with ego be gone! written at the top
+```
+
+#### 5. Hardworking bee daily check-in GIF
+
+- title_zh: 勤劳小蜜蜂每日打卡 GIF
+- category: Memes & stickers
+- author: 鱼哥 / @MrGafish
+- source: https://x.com/MrGafish/status/2118217749680025722
+- preview: https://oss-us.gptproto.com/2026/11/05/d23cc149f8c34514b8cd1b0651e1ed95.gif
+- heat: 4
+- platform_tier: 1
+- metrics: likes=2 reposts=0 replies=2 quotes=0
+- prompt_language: zh
+
+```text
+生成一个GIF，用于在𝕏 平台每日签到打卡，寓意我是一个发贴的勤劳小蜜蜂
+```
+
+#### 6. Line puppy swaying with hearts GIF
+
+- title_zh: 线条小狗摇摆与爱心 GIF
+- category: Memes & stickers
+- author: Carlos / @CalosLaw
+- source: https://x.com/CalosLaw/status/2118199125707547102
+- preview: https://oss-us.gptproto.com/2026/11/05/749611f4aeee4675a285db1af90707e7.gif
+- heat: 4
+- platform_tier: 1
+- metrics: likes=1 reposts=0 replies=3 quotes=0
+- prompt_language: zh
+
+```text
+做一个线条小狗风格的循环 GIF 动图：一只白色圆滚滚的简笔画小狗，黑色粗线条，手绘涂鸦感，纯白背景。小狗开心地左右摇摆身体、摇尾巴，眼睛眯成弯弯的笑眼，头顶冒出一颗小爱心。画面简洁可爱，动作流畅，首尾无缝循环，正方形构图，适合做表情包。
+```
+
+#### 7. “This is fine” upgrade: dog sipping tea in a burning room
+
+- title_zh: “This is fine” 升级版：着火房间里喝茶的小狗
+- category: Memes & stickers
+- author: 马识途 / @shitunote
+- source: https://x.com/shitunote/status/2118187063241777311
+- preview: https://oss-us.gptproto.com/2026/11/05/4e0272eecd5d4d9f9bf3d3b389175ed5.gif
+- heat: 3
+- platform_tier: 1
+- metrics: likes=1 reposts=0 replies=2 quotes=0
+- prompt_language: zh
+
+```text
+做一个循环 GIF，一只戴着小帽子的卡通狗坐在着火的房间里，先是平静地喝茶，然后慢慢意识到不对劲，表情逐渐从“没事”变成“其实有事”，最后又假装没事继续喝茶。风格偏扁平插画，表情夸张，背景火焰轻微闪动，6-8帧，无缝循环。
+```
+
+#### 8. Sunglasses cat dance meme
+
+- title_zh: 戴墨镜的猫跳舞 Meme
+- category: Memes & stickers
+- author: SSSS.CRYPTOMAN⚡️AI / @SSSS_CRYPTOMAN
+- source: https://x.com/SSSS_CRYPTOMAN/status/2118144429848748108
+- preview: https://oss-us.gptproto.com/2026/11/05/2a8cb12291d74ef99d2b5be6d024b72f.gif
+- heat: 11
+- platform_tier: 1
+- metrics: likes=11 reposts=0 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+次の内容で GIF を作成して: サングラスをかけた猫がダンスをするミームっぽいGIF
+```
+
+#### 9. Social GIF symbolizing “Heisei”
+
+- title_zh: 象征“平成”的社交 GIF
+- category: Memes & stickers
+- author: リマレレ│AI×YouTube×ブログ / @rem_rev
+- source: https://x.com/rem_rev/status/2118252486360498485
+- preview: https://oss-us.gptproto.com/2026/11/05/2a064234c80b438ead350d01b95a23c8.gif
+- heat: 4
+- platform_tier: 1
+- metrics: likes=3 reposts=0 replies=1 quotes=0
+- prompt_language: ja
+
+```text
+平成を象徴する何か。SNS向けのGIF画像を生成して下さい。
+```
+
+#### 10. Reference character eating rice — “so good!” sticker
+
+- title_zh: 参考角色吃大白米饭“真香！”表情包
+- category: Memes & stickers
+- author: Gorden Sun / @Gorden_Sun
+- source: https://x.com/Gorden_Sun/status/2118166046175908016
+- preview: https://oss-us.gptproto.com/2026/11/05/43d890b0c83c413a8bc9ee9f7cb680a8.gif
+- heat: 138
+- platform_tier: 1
+- metrics: likes=101 reposts=4 replies=29 quotes=0
+- prompt_language: zh
+
+```text
+使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
+```
+
+#### 11. WeChat animated sticker universal template
+
+- title_zh: 微信动态表情包通用模板
+- category: Memes & stickers
+- author: 路飞 🏴‍☠️ AI 研究员🧐 / @0xluffy_eth
+- source: https://x.com/0xluffy_eth/status/2118235544459387112
+- preview: https://oss-us.gptproto.com/2026/11/05/326e208ade7e48b79f88e21d4ea9bf4b.gif
+- heat: 163
+- platform_tier: 1
+- metrics: likes=113 reposts=12 replies=23 quotes=3
+- prompt_language: zh
+
+```text
+请以我上传的角色图为参考，按「表情包主题」做一张可下载的动态 GIF。
+
+【角色保持一致】锁发型/配色/标志道具，Q 版比例全帧不变
+【自动设计动作】一个核心笑点，夸张一点，首尾能循环
+【自动配字】2～8 个字网感短句，顶部粗圆体+白描边
+【画面】正方形纯白底，2～3 秒循环，聊天表情包规格
+
+表情包主题：【填你的梗，比如「周一不想上班」】
+```
+
+#### 12. Whale girl (Big Fat Fish) eating plain rice
+
+- title_zh: 鲸鱼娘（大肥鱼）干白饭
+- category: Memes & stickers
+- author: Gantrol / @gantrols
+- source: https://x.com/gantrols/status/2118147326351159730
+- preview: https://oss-us.gptproto.com/2026/11/05/cbe691441e624e7cad045bbec062b13c.gif
+- heat: 2
+- platform_tier: 1
+- metrics: likes=2 reposts=0 replies=0 quotes=0
+- prompt_language: zh
+
+```text
+Create a GIF of 鲸鱼娘干白饭饭，附图是人物形象参考图
+```
+
+#### 13. Same IP, two stickers: smash PC / Big Fat Fish drop
+
+- title_zh: 同一 IP 两张表情包：砸电脑 / 大肥鱼掉落
+- category: Memes & stickers
+- author: Gimi 米未可 / @Gimi_min
+- source: https://x.com/Gimi_min/status/2118243060064964703
+- preview: https://oss-us.gptproto.com/2026/11/05/6507a6fac25143db8f95d912c509b91f.gif
+- heat: 4
+- platform_tier: 1
+- metrics: likes=4 reposts=0 replies=0 quotes=0
+- prompt_language: zh
+
+```text
+参考图 2人物 IP 制作两张GIF， 风格调性 按图 1。 第一张：人物发现电脑 bug 解不完，气砸电脑。 第二张：人物抱在怀里「大肥鱼」，掉出来。
+```
+
+#### 14. Big Fat Fish sticker template
+
+- title_zh: 大肥鱼表情包模板
+- category: Memes & stickers
+- author: 歸藏(guizang.ai) / @op7418
+- source: https://x.com/op7418/status/2118181775688241456
+- preview: https://oss-us.gptproto.com/2026/11/05/b52fe44a2f014e908a88c786ea7e0241.gif
+- heat: 176
+- platform_tier: 1
+- metrics: likes=85 reposts=5 replies=76 quotes=5
+- prompt_language: zh
+
+```text
+请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。
+
+【角色保持一致】
+保留参考图中的蓝色渐变长发、呆毛、鲸鱼耳鳍、蓝色蝴蝶结、白色女仆头饰、蓝白女仆裙和大鲸鱼尾巴。
+保持原图的大头小身体 Q 版比例、圆脸和可爱画风，人物外观在所有帧中保持一致。
+
+【自动设计动作】
+理解我想表达的情绪或梗，将它设计成一个简单、有趣、一眼能看懂的短动作。
+突出一个核心笑点，用夸张表情、动作反差和轻微的压缩回弹增加喜感。头发、呆毛、耳鳍和尾巴自然跟随动作。
+根据主题添加必要的少量道具，保持画面简洁。
+主动设计首尾衔接，让动画能够自然循环播放。
+
+【自动配字】
+根据主题提炼一句简短、有网感的中文配字，优先控制在 2～8 个字。
+如果主题中用引号指定了台词，直接使用该台词。
+字幕放在顶部，使用粗圆体、深蓝字、白色描边；文字、字形和位置全程稳定，角色与道具不遮挡字幕。
+
+【画面与输出】
+正方形画面，纯白背景，固定镜头，主体居中并保留足够边距。
+动画约 2～3 秒，无限循环，动作清晰，适合聊天时作为表情包发送。
+最终交付实际会播放的多帧 GIF 文件，并提供下载。
+
+表情包主题：【在这里填一句话，描述你想表达的梗、情绪或动作】
+```
+
+
+### character — Characters & anime (6)
+
+#### 15. Reference character dance GIF
+
+- title_zh: 参考角色跳舞 GIF
+- category: Characters & anime
+- author: てんねん / @munou_ac
+- source: https://x.com/munou_ac/status/2118220485150535796
+- preview: https://oss-us.gptproto.com/2026/11/05/da44d26696394050a7cf46ff4e7f9665.gif
+- heat: 23
+- platform_tier: 1
+- metrics: likes=19 reposts=1 replies=2 quotes=0
+- prompt_language: ja
+
+```text
+参照画像のキャラクターが
+ダンスするGIFを作ってください
+```
+
+#### 16. Reference character hip-shake GIF
+
+- title_zh: 参考角色扭屁股 GIF
+- category: Characters & anime
+- author: TAIKI / @TaikiTaiki04
+- source: https://x.com/TaikiTaiki04/status/2118177315176001988
+- preview: https://oss-us.gptproto.com/2026/11/05/9cd8973b16864cff890906366b8f1148.gif
+- heat: 1
+- platform_tier: 1
+- metrics: likes=1 reposts=0 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+GIFでお尻フリフリさせて。
+```
+
+#### 17. Reference character chibi-cute motion
+
+- title_zh: 参考角色 Q 版化可爱动作
+- category: Characters & anime
+- author: shinshin86｜AITuber OnAir開発者｜AIキャラのミコをバズらせたい人 / @shinshin86
+- source: https://x.com/shinshin86/status/2118225428976705908
+- preview: https://oss-us.gptproto.com/2026/11/05/4a4d078011634194ac201cd49da3bfe6.gif
+- heat: 10
+- platform_tier: 1
+- metrics: likes=6 reposts=1 replies=2 quotes=0
+- prompt_language: ja
+
+```text
+このキャラクターをちびキャラ化して、何か可愛らしい動きをしているところをGIF画像にしてください。
+```
+
+#### 18. Reference character waving and smiling
+
+- title_zh: 参考角色挥手微笑
+- category: Characters & anime
+- author: あゆ｜キャラパレ運営🎨毎日プロンプト配布中 / @okan_aitool
+- source: https://x.com/okan_aitool/status/2118201578406772887
+- preview: https://oss-us.gptproto.com/2026/11/05/a0f51462f06040db99a7e0eb3e706608.gif
+- heat: 5
+- platform_tier: 1
+- metrics: likes=5 reposts=0 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+このキャラをGIFで動かして。手を振って笑う
+```
+
+#### 19. “ChatGPT itself” accidental selfie
+
+- title_zh: “ChatGPT 自己”误拍自拍
+- category: Characters & anime
+- author: Nixus / @nixus404
+- source: https://x.com/nixus404/status/2118180448840872167
+- preview: https://oss-us.gptproto.com/2026/11/05/fa7c800120ae4885aad2b35c8d0404fd.gif
+- heat: 0
+- platform_tier: 1
+- metrics: likes=0 reposts=0 replies=0 quotes=0
+- prompt_language: en
+
+```text
+Create an animated GIF of yourself, as if you were taking an accidental selfie with your phone
+```
+
+#### 20. Reference character blinks and smiles (3×3 sprite sheet)
+
+- title_zh: 参考图角色眨眼微笑（3×3 精灵图）
+- category: Characters & anime
+- author: ぬる（温） / @uzuyanurp
+- source: https://x.com/uzuyanurp/status/2118133109980041703
+- preview: https://oss-us.gptproto.com/2026/11/05/eb68af5b926342c8a5ddba791b507dca.gif
+- heat: 23
+- platform_tier: 1
+- metrics: likes=15 reposts=1 replies=3 quotes=3
+- prompt_language: ja
+
+```text
+【参照画像からウインクGIFを作るプロンプト】
+
+添付した参照画像のキャラクターを使って、短いループGIFアニメーションを生成してください。
+
+■ キャラクター固定
+・顔立ち、髪型、髪色、瞳、衣装、装飾を維持
+・別人化や衣装変更をしない
+・参照画像が設定資料の場合は、主となるキャラクターを使用
+
+■ アニメーション
+① 正面を見つめる通常表情
+② 口元が少し緩む
+③ 優しく微笑む
+④ 片目を自然に閉じる
+⑤ ウインクしながら笑顔
+⑥ 片目を開き、元の表情へ戻る
+
+■ 生成仕様
+・9フレーム
+・3×3の均等なスプライトシート
+・1フレーム140ms
+・約1.26秒のループGIF
+・カメラ位置と背景は固定
+・自然な瞬きと表情変化
+・顔の輪郭や装飾のちらつきを抑える
+・各フレームに文字や番号を入れない
+
+■ 出力
+完成したアニメーションGIFを出力してください。
+静止画やプロンプトの提示だけで終わらないでください。
+```
+
+
+### animal — Animals & pets (9)
+
+#### 21. Eagle flapping on a transparent background
+
+- title_zh: 透明背景振翅鹰
+- category: Animals & pets
+- author: vunderba
+- source: https://imgpb.com/OzSMKJ
+- preview: https://oss-us.gptproto.com/2026/11/05/b9f245b55bd74f70b17031832dd3fdb0.gif
+- heat: 0
+- platform_tier: 5
+- prompt_language: en
+
+```text
+A eagle flapping its wings on a transparent background, flat vector illustration, seamless loop
+```
+
+#### 22. Husky howling inside a snow globe
+
+- title_zh: 雪景球里嚎叫的哈士奇
+- category: Animals & pets
+- author: vunderba
+- source: https://imgpb.com/OzSMKJ
+- preview: https://oss-us.gptproto.com/2026/11/05/009823eb888c4f2687fa66e302489823.gif
+- heat: 0
+- platform_tier: 5
+- prompt_language: en
+
+```text
+An animation of a husky howling inside a snowglobe while snow gently falls inside the glass globe
+```
+
+#### 23. Pelican riding a bike by the sea
+
+- title_zh: 海边骑自行车的鹈鹕
+- category: Animals & pets
+- author: Nektali / @Nektaliasi
+- source: original post deleted by author; profile https://x.com/Nektaliasi
+- preview: https://oss-us.gptproto.com/2026/11/05/3b8bb3b3533645879e94eec23c75de6a.gif
+- heat: 0
+- platform_tier: 1
+- prompt_language: en
+
+```text
+Gif of a pelican riding a bicycle along the seaside.
+```
+
+#### 24. Pelican on a bicycle (classic test)
+
+- title_zh: 骑自行车的鹈鹕（经典测试）
+- category: Animals & pets
+- author: SSH / @SSHCodes
+- source: https://x.com/SSHCodes/status/2118127375481504100
+- preview: https://oss-us.gptproto.com/2026/11/05/9f4b95c26f174ee38132a4a8b522f02f.gif
+- heat: 18
+- platform_tier: 1
+- metrics: likes=14 reposts=1 replies=2 quotes=0
+- prompt_language: en
+
+```text
+generate a gif of a pelican riding a bicycle
+```
+
+#### 25. Clay kitten playing in a ball pit
+
+- title_zh: 黏土小猫在海洋球池玩耍
+- category: Animals & pets
+- author: Gregory Wieber / @dreamwieber
+- source: https://x.com/dreamwieber/status/2118191599872344467
+- preview: https://oss-us.gptproto.com/2026/11/05/77b30aeb9a9748c4a27a18bee738cc8e.gif
+- heat: 1
+- platform_tier: 1
+- metrics: likes=1 reposts=0 replies=0 quotes=0
+- prompt_language: en
+
+```text
+generate an animated gif of a claymation kitten playing in a plastic ball pit
+```
+
+#### 26. Psychedelic dancing cat
+
+- title_zh: 迷幻风跳舞猫
+- category: Animals & pets
+- author: Xedrik / @xedrik7
+- source: https://x.com/xedrik7/status/2118258491043483978
+- preview: https://oss-us.gptproto.com/2026/11/05/eb785980ba3b44929c92fe33b0982647.gif
+- heat: 0
+- platform_tier: 1
+- metrics: likes=0 reposts=0 replies=0 quotes=0
+- prompt_language: en
+
+```text
+psychedelic gif of cat dancing
+```
+
+#### 27. “Good night nya~!” bedtime cat GIF
+
+- title_zh: “おやすみにゃ～！”晚安猫 GIF
+- category: Animals & pets
+- author: EES Everlasting / @eeseverlasting
+- source: https://x.com/eeseverlasting/status/2118248165396848968
+- preview: https://oss-us.gptproto.com/2026/11/05/b038c549c17645e7981a85f5899816f6.gif
+- heat: 0
+- platform_tier: 1
+- metrics: likes=0 reposts=0 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+添付画像をつかって、おもしろいGIF『おやすみにゃ～！』をつくりたい。
+```
+
+#### 28. Orange kitten leaps at the camera and bonks the lens
+
+- title_zh: 橘猫幼崽扑向镜头碰镜头
+- category: Animals & pets
+- author: Steve / @meigesir
+- source: https://x.com/meigesir/status/2118248846648287720
+- preview: https://oss-us.gptproto.com/2026/11/05/48b2cb3fbbca483299562f383f506951.gif
+- heat: 1
+- platform_tier: 1
+- metrics: likes=0 reposts=0 replies=1 quotes=0
+- prompt_language: en
+
+```text
+Animated 9-frame looping GIF. Fixed camera at floor level, bright cozy living room, warm soft daylight, cheerful mood. A tiny fluffy ginger kitten with big round sparkly eyes plays with a pink feather toy dangling just in front of the camera. Frames 1-2: kitten sits small in the center, wiggling, eyes locked on the feather. Frames 3-6: kitten hops playfully toward the camera, getting bigger each frame, mouth closed, ears perked, adorable curious face, one tiny paw reaching for the feather. Frame 7-8: kitten's soft pink paw pad gently boops the camera lens, kitten face cute and happy behind it. Frame 9: back to the kitten sitting small in the center, same as frame 1. Mouth closed in every frame, no teeth, no claws, cute and playful, never scary. Same kitten, same room, same lighting in every frame. Big, obvious motion. Photorealistic, sharp focus.
+```
+
+#### 29. Ofox API test: orange bird flapping on a branch
+
+- title_zh: Ofox API 实测：树枝上振翅的小橘鸟
+- category: Animals & pets
+- author: Ofox
+- source: https://ofox.ai/blog/gpt-image-2-6-gif-guide/
+- preview: https://oss-us.gptproto.com/2026/11/05/0cb1e48fa4ff455cb68aa9c0ae7a4611.gif
+- heat: 0
+- platform_tier: 5
+- prompt_language: en
+
+```text
+Create a looping animation of a small orange bird on a stationary branch against a plain cream background. The bird raises its wings, pauses, then lowers them to its starting pose. Keep the camera fixed, the branch still, and the bird shape and colors consistent. No text. Make the transition back to the start smooth.
+```
+
+
+### people — People & photoreal (5)
+
+#### 30. Novel character scene GIF
+
+- title_zh: 小说人物片段 GIF
+- category: People & photoreal
+- author: 鱼哥 / @MrGafish
+- source: https://x.com/MrGafish/status/2118147815008518564
+- preview: https://oss-us.gptproto.com/2026/11/05/b93126a7515844eea5cd09a671b92162.gif
+- heat: 4
+- platform_tier: 1
+- metrics: likes=2 reposts=0 replies=2 quotes=0
+- prompt_language: zh
+
+```text
+创建一个 GIF，内容是下面小说中的人物片断
+```
+
+#### 31. Dynamic live-action photography prompt test
+
+- title_zh: 动态实景摄影 Prompt 测试
+- category: People & photoreal
+- author: Brent Lynch / @BrentLynch
+- source: https://x.com/BrentLynch/status/2118143703667843417
+- preview: https://oss-us.gptproto.com/2026/11/05/9093cca462834c35be46cdfcd4e606a1.gif
+- heat: 6
+- platform_tier: 1
+- metrics: likes=4 reposts=0 replies=2 quotes=0
+- prompt_language: en
+
+```text
+analyze and review this prompt, optimize and update prompt for accurate exciting dynamic on location  set photography of photographed woman
+```
+
+#### 32. Elderly man chopping wood in a winter yard
+
+- title_zh: 寒冬院子里劈柴的老爷爷
+- category: People & photoreal
+- author: Koei / こうえい | AI Creator / @koe_ai414
+- source: https://x.com/koe_ai414/status/2118153765094351279
+- preview: https://oss-us.gptproto.com/2026/11/05/0f8e969ccd9148ebacf47f37c55cb664.gif
+- heat: 4
+- platform_tier: 1
+- metrics: likes=4 reposts=0 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+冬の寒い中、家の庭で薪割りをするおじいさんのGIF
+```
+
+#### 33. Japanese woman turns and winks at the camera
+
+- title_zh: 日本女性转身对镜头眨眼
+- category: People & photoreal
+- author: Koei / こうえい | AI Creator / @koe_ai414
+- source: https://x.com/koe_ai414/status/2118153765094351279
+- preview: https://oss-us.gptproto.com/2026/11/05/f9831aaee88d411b8fc2c77e09bb8738.gif
+- heat: 4
+- platform_tier: 1
+- metrics: likes=4 reposts=0 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+日本人女性がくるっとターンして、カメラに向かってウィンクするGIF
+```
+
+#### 34. K-pop woman dancer choreography
+
+- title_zh: K-pop 女舞者编舞
+- category: People & photoreal
+- author: Shinya@AIマンガ家 / @shinya_blogger
+- source: https://x.com/shinya_blogger/status/2118188465015890394
+- preview: https://oss-us.gptproto.com/2026/11/05/cfc52f07d294450aa8ebddfae1d30751.gif
+- heat: 4
+- platform_tier: 1
+- metrics: likes=3 reposts=0 replies=1 quotes=0
+- prompt_language: ja
+
+```text
+ダンスするgifにして。正方形。
+Medium shot, a cool female dancer executing sharp K-pop choreography, confident expression, striking poses, sleek modern outfit, high-energy dance performance,
+```
+
+
+### i2g — Image-to-GIF (4)
+
+#### 35. Line-art cat becomes a realistic orange cat that breathes and wags its tail
+
+- title_zh: 连续线稿猫变写实橘猫并呼吸摆尾
+- category: Image-to-GIF
+- author: Sienna Blake / @siennatries
+- source: https://x.com/siennatries/status/2118154286811267282
+- preview: https://oss-us.gptproto.com/2026/11/05/b17ceeef37b6499eb0f1bbf22b670717.gif
+- heat: 1
+- platform_tier: 1
+- metrics: likes=0 reposts=0 replies=1 quotes=0
+- prompt_language: en
+
+```text
+Create a GIF of this continuous line drawing transformed into a realistic orange tabby cat in the same pose, tail gently swaying, body subtly breathing, head slightly turning, soft natural lighting, clean colored background, smooth seamless loop
+```
+
+#### 36. Reference-to-GIF & sprite-sheet workflow (piece 1)
+
+- title_zh: 参考图转 GIF 与精灵图方式（作品 1）
+- category: Image-to-GIF
+- author: yuA｜AIで収入の柱をつくる実践記 / @daifuku_ailover
+- source: https://x.com/daifuku_ailover/status/2118224031518454108
+- preview: https://oss-us.gptproto.com/2026/11/05/4c813542b86f432dac6bd8f8dd86c879.gif
+- heat: 0
+- platform_tier: 1
+- metrics: likes=0 reposts=0 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+この画像でGIFアニメーション作って
+```
+
+#### 37. Reference image turned into an MV-style GIF
+
+- title_zh: 参考图片转 MV 风 GIF
+- category: Image-to-GIF
+- author: アユネオ / @Ayu_AI_0912
+- source: https://x.com/Ayu_AI_0912/status/2118138025024839939
+- preview: https://oss-us.gptproto.com/2026/11/05/e0200c07754e4ae1be575a6a704d6066.gif
+- heat: 5
+- platform_tier: 1
+- metrics: likes=5 reposts=0 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+添付した画像を使ってかっこいいMV風のGIFアニメにして
+```
+
+#### 38. Video-to-“walk through wall” GIF
+
+- title_zh: 视频转“穿墙”GIF
+- category: Image-to-GIF
+- author: アユネオ / @Ayu_AI_0912
+- source: https://x.com/Ayu_AI_0912/status/2118192179042750503
+- preview: https://oss-us.gptproto.com/2026/11/05/794f498d1cd9433c8084566426eb37c8.gif
+- heat: 14
+- platform_tier: 1
+- metrics: likes=10 reposts=0 replies=4 quotes=0
+- prompt_language: ja
+
+```text
+この動画をGIFアニメにして。生成する際は、GIFアニメっぽく場面をカットすること。
+```
+
+
+### product — Product & brand (4)
+
+#### 39. Kingy: product bottle swaying (API)
+
+- title_zh: Kingy：产品瓶左右摇摆（API）
+- category: Product & brand
+- author: Curtis Pyke / Kingy
+- source: https://kingy.ai/blog/chatgpt-gifs-images-2-6-vs-2-5-hands-on-test/
+- preview: https://oss-us.gptproto.com/2026/11/05/ec82fa485ec8411fb39f133b0752f64c.gif
+- heat: 0
+- platform_tier: 5
+- prompt_language: en
+
+```text
+Generate an actual animated GIF file, not a still picture, sprite sheet, video, or Python-coded animation. Square 512 by 512 pixels, a seamless 2-second loop. A bright orange reusable water bottle with a charcoal screw cap and a small turquoise circular badge remains centered on a pale gray studio background. The bottle rocks gently left and right and returns to its starting pose; the camera and background stay fixed. The bottle reads exactly "KINGY LAB" and "750 mL" throughout. No other text or objects. Use ChatGPT's native GIF generation and provide the downloadable GIF. If native GIF generation is unavailable, state that limitation rather than simulating it with code.
+```
+
+#### 40. Coffee-making robot GIF
+
+- title_zh: 冲咖啡机器人 GIF
+- category: Product & brand
+- author: Soichiro Abe | AI 営業 マーケ / @sousoccer6
+- source: https://x.com/sousoccer6/status/2118210705585537226
+- preview: https://oss-us.gptproto.com/2026/11/05/53d915bed539450abf4036057a908403.gif
+- heat: 0
+- platform_tier: 1
+- metrics: likes=0 reposts=0 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+コーヒーを淹れるロボット
+```
+
+#### 41. Two-line event title GIF
+
+- title_zh: 两行活动标题 GIF
+- category: Product & brand
+- author: サバ缶＠AIを活用する情シス / @iidaatcnt
+- source: https://x.com/iidaatcnt/status/2118218668408746367
+- preview: https://oss-us.gptproto.com/2026/11/05/3d3ed432dc524cf3b53971ca5296d6ea.gif
+- heat: 1
+- platform_tier: 1
+- metrics: likes=1 reposts=0 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+“ChatGPT Images 2.6雑談 12：50まで”のGiFを作って！２行で！。
+```
+
+#### 42. Guess the idiom: four ceramic figurines bounce in turn
+
+- title_zh: 看图猜成语：四件陶瓷摆件依次弹跳
+- category: Product & brand
+- author: 知识猫 / @GeekCatX
+- source: https://x.com/GeekCatX/status/2118160560290480519
+- preview: https://oss-us.gptproto.com/2026/11/05/326b31cf0bab421e960cc4f8f740e80e.gif
+- heat: 20
+- platform_tier: 1
+- metrics: likes=11 reposts=0 replies=9 quotes=0
+- prompt_language: zh
+
+```text
+制作一个中国成语物件猜谜 GIF 动图，竖版 3:4，精致可爱的短视频封面风格。
+
+【输出规格】
+输出一个可播放的 GIF 动图。
+画面尺寸：768×1024 像素。
+总时长：3秒，无限循环。
+建议帧率：20fps，约60帧。
+动画包含4个连续动作段，每段0.75秒，分别对应四件物品。
+全程为同一个完整画面，镜头固定，构图固定，没有切镜、推拉、摇移或缩放。
+【制作原则：同一母版，局部动画】
+先建立一张完整的静态母版，再基于同一母版制作动画。
+所有帧保持相同的背景、构图、文字、台面、物件造型、材质、颜色与光照。
+只允许当前指定物件进行小幅竖直位移，并同步调整它的局部高光、接触阴影与倒影。
+其余三个物件保持静止。
+文字必须使用同一份静态图层，在全部帧中重复使用，不要逐帧重新绘制。
+【背景】
+深蓝色专业摄影棚背景，中心为柔和宝蓝色，向四周自然渐暗为午夜蓝。
+背景纯净，具有轻微柔光晕，渐变细腻，没有明显纹理和杂乱装饰。
+背景空白区域分布3—5个微小、低亮度的金色光点。
+光点沿非常短的闭合轨迹缓慢漂浮，一个循环周期为3秒。
+光点不穿过文字或物件，不闪烁、不突然出现或消失，循环结束时回到起始位置。
+【文字：全程完全静止】
+画面中只允许出现以下两行文字，不增加任何其他文字：
+第一行：
+物件藏着一个成语
+
+第二行：
+你猜出来了吗
+第一行位于画面顶部居中，使用明黄色 #FFD54A 的超粗圆体大字，字形饱满圆润，带浅描边和轻微投影。
+第二行位于第一行正下方，使用白色粗圆体，字号约为第一行的60%。
+
+两行文字保持足够行距，四周预留安全边距，不贴边、不裁切。
+汉字笔画完整，字形标准，清晰易读，无错别字。
+在所有帧中，文字的位置、字号、字距、笔画、颜色、描边、阴影与透明度完全一致。
+文字不参与弹跳、高光扫动、闪烁或任何其他动画。
+【台面与构图】
+画面中下部是一条横向浅木纹展示台。
+台面干净，木纹细腻，具有柔和、克制的反光。
+四件物品集中排列于画面中下部，物件组占画面宽度约85%—90%。
+四件物品位于同一前后层级，静止时底部对齐于同一条台面接触基线。
+它们具有接近的视觉体量，间距均匀，彼此留出清晰空隙。
+不前后错落、不堆叠、不互相遮挡。
+
+采用固定的轻微俯视角度，能够清楚看见杯口和水面，同时保持四件物品横向并排的秩序感。
+【四件物品：顺序固定】
+从左到右严格依次为：
+一辆红色Q版小汽车。
+圆润饱满，车身呈中国红，轮子与车窗清晰可辨，具有精致陶瓷玩具质感。
+
+一个装满清水的青花瓷杯。
+杯身具有细腻青花纹样，杯口清晰，能够看见透明清水与柔和水面反光。
+杯身无文字，水面保持平稳，不溢出、不飞溅。
+一匹金色Q版小马。
+造型圆润可爱，具有清晰的马头、鬃毛、四肢与尾巴，表面为温润的金色陶瓷釉面。
+一条青绿色盘身小龙。
+中国传统小龙造型，身体盘曲，龙头微微抬起，龙角、龙须与鳞片适度简化，神态可爱，具有青绿色陶瓷釉面质感。
+
+四件物品保持各自明确的识别特征。
+物件表面没有文字、拼音、标签、数字或答案提示。
+【动作规则】
+所有物件均为刚性的陶瓷摆件，只允许整体轻轻向上移动，再回到原位。
+不挤压、不拉伸、不旋转、不左右移动、不改变造型。
+
+弹跳最高点距离原位约为画面高度的1%，动作轻巧、克制。
+每个物件必须完整落回原位后，下一个物件才开始动作。
+任意时刻，四件物品中最多只有一件正在运动。
+当前物件弹起时，一道低强度、柔和的高光缓缓掠过其表面。
+高光只作用于当前物件，不影响文字、背景和其他物件。
+物件下方的阴影与倒影随高度轻微变化，落地后恢复母版状态。
+小汽车轮子不转，小马不迈腿，小龙不摆尾、不转头。
+
+【3秒动作时间线】
+0.00—0.75秒：
+红色小汽车完成一次轻轻弹起并落回原位。
+瓷杯、小马、小龙保持静止。
+0.75—1.50秒：
+青花瓷杯完成一次轻轻弹起并落回原位。
+汽车、小马、小龙保持静止。
+
+1.50—2.25秒：
+金色小马完成一次轻轻弹起并落回原位。
+汽车、瓷杯、小龙保持静止。
+2.25—3.00秒：
+青绿色小龙完成一次轻轻弹起并落回原位。
+汽车、瓷杯、小马保持静止。
+
+每个0.75秒动作段均遵循：
+短暂停住 → 平缓上升 → 平缓落下 → 落定后短暂停住。
+上升和下落采用柔和缓入缓出，不突然跳位，不夸张弹震。
+
+【无缝循环】
+首帧与末帧完全一致：
+四件物品全部落在原位，所有高光、阴影、倒影与背景光点均回到初始状态。
+从末帧接回首帧时，没有位置跳变、亮度跳变或颜色闪动。
+循环中不出现黑帧、白帧、残影或重影。
+
+【整体质感】
+精致可爱的Q版3D陶瓷摆件，圆润、细腻、通透。
+以中国红、金色、青绿色和青花蓝点缀深蓝背景，融入克制的中国传统纹样细节。
+顶部柔光配合左右轮廓光，物件边缘高光清晰，台面倒影柔和。
+整体具有中国文化韵味，适合全年龄观看。
+【禁止事项】
+不出现成语答案。
+不出现额外文字、水印、品牌标志或界面元素。
+不出现分镜拼图、四宫格或多画面。
+不改变四件物品的数量、顺序、造型、颜色或比例。
+不让两个物件同时运动。
+不让物件重叠、碰撞、堆叠或横向移位。
+不让文字闪烁、变形、位移或重新生成。
+不改变相机位置、背景亮度或整体色调。
+```
+
+
+### scene — Scenes & worlds (6)
+
+#### 43. Windmill slowly turning on green hills
+
+- title_zh: 绿丘风车缓慢转动
+- category: Scenes & worlds
+- author: vunderba
+- source: https://imgpb.com/OzSMKJ
+- preview: https://oss-us.gptproto.com/2026/11/05/c3b8837dbc2747fba80bc4f0b85fb5d9.gif
+- heat: 0
+- platform_tier: 5
+- prompt_language: en
+
+```text
+A windmill with slowly turning sails on a green hill under a blue sky with small clouds, flat vector illustration, seamless loop
+```
+
+#### 44. Osaka Castle construction process GIF
+
+- title_zh: 大阪城建筑过程 GIF
+- category: Scenes & worlds
+- author: じゃむまる / @jammaru_lab
+- source: https://x.com/jammaru_lab/status/2118153279821787623
+- preview: https://oss-us.gptproto.com/2026/11/05/5536983f8b9e4cc1916af93d6bb5eee3.gif
+- heat: 7
+- platform_tier: 1
+- metrics: likes=5 reposts=1 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+大阪城を建築する流れをGIFにして
+```
+
+#### 45. Paper boat bobbing on water
+
+- title_zh: 水面上起伏的纸船
+- category: Scenes & worlds
+- author: 爆裂队长NEXT / @thinkszyg
+- source: https://x.com/thinkszyg/status/2118166234495947044
+- preview: https://oss-us.gptproto.com/2026/11/05/479522f06f8744b08762f57a7ff972c8.gif
+- heat: 3
+- platform_tier: 1
+- metrics: likes=2 reposts=0 replies=1 quotes=0
+- prompt_language: en
+
+```text
+Make a looping GIF of a paper boat bobbing on the water.
+```
+
+#### 46. New York City snow globe
+
+- title_zh: 纽约雪景球
+- category: Scenes & worlds
+- author: Gregory Wieber / @dreamwieber
+- source: https://x.com/dreamwieber/status/2118190877567037732
+- preview: https://oss-us.gptproto.com/2026/11/05/848a607587494acd967e804bc3a7d017.gif
+- heat: 0
+- platform_tier: 1
+- metrics: likes=0 reposts=0 replies=0 quotes=0
+- prompt_language: en
+
+```text
+generate an animated gif of a beautiful NYC snow globe
+```
+
+#### 47. Robot dancing Afrobeats on a Lagos street
+
+- title_zh: 拉各斯街头跳 Afrobeats 的机器人
+- category: Scenes & worlds
+- author: Olalekan Adeeko MVP / @o_adeeko
+- source: https://x.com/o_adeeko/status/2118203950306410729
+- preview: https://oss-us.gptproto.com/2026/11/05/1ba5eb4ea6774bdd8382849d06569c1b.gif
+- heat: 0
+- platform_tier: 1
+- metrics: likes=0 reposts=0 replies=0 quotes=0
+- prompt_language: en
+
+```text
+Create an animated GIF of a robot dancing to Afrobeats on a busy Lagos street. Make the movement loop smoothly.
+```
+
+#### 48. Beaker vortex and luminol chemiluminescence
+
+- title_zh: 烧杯漩涡与鲁米诺化学发光
+- category: Scenes & worlds
+- author: 鄭鈞霆 / @ZHENGJUNTING92
+- source: https://x.com/ZHENGJUNTING92/status/2118252052556255364
+- preview: https://oss-us.gptproto.com/2026/11/05/2e3fc18d821649e4b5e474e81b3475ee.gif
+- heat: 3
+- platform_tier: 1
+- metrics: likes=3 reposts=0 replies=0 quotes=0
+- prompt_language: zh
+
+```text
+制作gif
+垂直俯拍一个烧杯的杯口，里面的水在旋转形成漩涡，然后滴入液体
+C8H7N3O2+H202+NaOH-Na2C8H5N204+N2 1+H20+luminol CL
+烧杯中是少量罗丹明B碱性的鲁米诺溶液 和过氧化氢
+胶头滴管中是含铁离子溶液 和荧光染料
+```
+
+
+### game — Pixel & games (3)
+
+#### 49. Reference character pixel fighting move (Tanjiro)
+
+- title_zh: 参考角色像素格斗招式（炭治郎）
+- category: Pixel & games
+- author: Kiki / @Mayz1169
+- source: https://x.com/Mayz1169/status/2118245929505669260
+- preview: https://oss-us.gptproto.com/2026/11/05/2a26045eed324480a20a7c9035abc4f5.gif
+- heat: 12
+- platform_tier: 1
+- metrics: likes=6 reposts=2 replies=2 quotes=0
+- prompt_language: en
+
+```text
+Use the character I uploaded as the reference and make a downloadable looping pixel-art GIF of them performing a signature move.
+
+[Keep the character consistent]
+Study the reference and keep every key feature: hairstyle and hair color, face and eye color, marks or scars, outfit colors and patterns, accessories, and their weapon or prop. Same proportions and same look in every frame.
+
+[Pixel art style]
+Highly detailed HD pixel art, like premium 2D fighting game sprites: crisp hard-edged pixels, rich palette with pixel shading and highlights, visible fabric folds and hair strands, no anti-aliasing.
+Full body, side 3/4 view, same size and same ground line in every frame.
+
+[Design the move]
+Pick a move that fits the character's personality, power or weapon (or use the one I give below).
+Make it a short, punchy attack anyone can read at a glance: ready stance → wind-up → strike → follow-through → back to ready.
+Add an elemental or energy effect that matches the character, rendered as pixel art (e.g. water waves, fire, lightning, petals).
+Hair, clothes and effects react naturally to the motion. First and last frame match so it loops seamlessly.
+
+[Output]
+Pure white background, fixed camera, character centered with enough margin. No text.
+About 12 frames, 1.5–2 seconds, infinite loop.
+Deliver an actual multi-frame GIF file I can download.
+```
+
+#### 50. Three-view character pixelated with electric FX
+
+- title_zh: 三视图角色像素化电光特效
+- category: Pixel & games
+- author: ヤレヤル（AI動画/AI画像/AI音楽） / @YaReYaRu30Life
+- source: https://x.com/YaReYaRu30Life/status/2118167174053597233
+- preview: https://oss-us.gptproto.com/2026/11/05/6a1619af43bf4e8d88629afafc418a23.gif
+- heat: 7
+- platform_tier: 1
+- metrics: likes=5 reposts=1 replies=0 quotes=0
+- prompt_language: ja
+
+```text
+このキャラをドット化して、紫の電光エフェクトでボルトをナットを吹き飛ばすGIFを作成
+```
+
+#### 51. Pixel hero sword-slash FX
+
+- title_zh: 像素勇者挥剑特效
+- category: Pixel & games
+- author: ヤレヤル（AI動画/AI画像/AI音楽） / @YaReYaRu30Life
+- source: https://x.com/YaReYaRu30Life/status/2118166505603153922
+- preview: https://oss-us.gptproto.com/2026/11/05/0c871b9ba12a4d2daf986da0652d227f.gif
+- heat: 9
+- platform_tier: 1
+- metrics: likes=7 reposts=0 replies=1 quotes=1
+- prompt_language: ja
+
+```text
+GIFを作成。ドット絵の勇者。
+剣にエフェクトをつけて振り回す
+```
+
+
+### technical — Tutorials & parameters (1)
+
+#### 52. Sicilian Defense opening animation
+
+- title_zh: 西西里防御开局动画
+- category: Tutorials & parameters
+- author: vunderba
+- source: https://imgpb.com/OzSMKJ
+- preview: https://oss-us.gptproto.com/2026/11/05/6b63fe960e3245669a157a15a9d8c637.gif
+- heat: 0
+- platform_tier: 5
+- prompt_language: en
+
+```text
+A simple animation of the Sicilian Defense opening on a chess board, flat vector illustration
+```
+
+
+## Showcase only, no public prompt (87)
+
+### official — Official & partners (3)
+
+- 53. Hand-drawn owl sketch becomes an animated character | title_zh: 手绘猫头鹰草图变动态角色 | author: OpenAI | source: https://openai.com/index/introducing-images-2-6/ | preview: https://oss-us.gptproto.com/2026/11/05/4ae6349acd8a42968ea122fb9039f2db.gif | heat: 1000000000000 | tier: 0
+- 54. Town's Monty: AI work assistant “typing…” animation | title_zh: Town 的 Monty：AI 工作助手“正在输入”动画 | author: Town | source: https://openai.com/index/introducing-images-2-6/ | preview: https://oss-us.gptproto.com/2026/11/05/818bcb798dea453c9bd8e6e4c5f4e545.gif | heat: 1000000000000 | tier: 0
+- 55. Sunglasses chicken dance: official ChatGPT GIF walkthrough | title_zh: 戴墨镜的鸡/鸟跳舞：ChatGPT 官方 GIF 操作演示 | author: OpenAI | source: https://x.com/OpenAI/status/2118124953832935810 | preview: https://oss-us.gptproto.com/2026/11/05/8f4bf8bef4f04f51bef6d4c14d7af82b.gif | heat: 1000000001860 | tier: 0
+
+### meme — Memes & stickers (17)
+
+- 56. De Xiaowen digital character reaction (piece 1) | title_zh: De Xiaowen 数字角色动态表情（作品 1） | author: Derek Wen｜德里克文 / @derek_wall90176 | source: https://x.com/derek_wall90176/status/2118175241390436830 | preview: https://oss-us.gptproto.com/2026/11/05/d0e1d47263da4aad856f34985f444fd0.gif | heat: 0 | tier: 1
+- 57. De Xiaowen digital character reaction (piece 2) | title_zh: De Xiaowen 数字角色动态表情（作品 2） | author: Derek Wen｜德里克文 / @derek_wall90176 | source: https://x.com/derek_wall90176/status/2118175241390436830 | preview: https://oss-us.gptproto.com/2026/11/05/1c545d7534064a4180fda9c861b8e963.gif | heat: 0 | tier: 1
+- 58. De Xiaowen digital character reaction (piece 3) | title_zh: De Xiaowen 数字角色动态表情（作品 3） | author: Derek Wen｜德里克文 / @derek_wall90176 | source: https://x.com/derek_wall90176/status/2118175241390436830 | preview: https://oss-us.gptproto.com/2026/11/05/b186bb53b97f4f1aaf3b3b1fb6f7a9c7.gif | heat: 0 | tier: 1
+- 59. De Xiaowen digital character reaction (piece 4) | title_zh: De Xiaowen 数字角色动态表情（作品 4） | author: Derek Wen｜德里克文 / @derek_wall90176 | source: https://x.com/derek_wall90176/status/2118175241390436830 | preview: https://oss-us.gptproto.com/2026/11/05/0d8941e8bfbd45b9a1703556aa678e11.gif | heat: 0 | tier: 1
+- 60. GPT Images 2.6 GIF creation test | title_zh: GPT Images 2.6 GIF 创作测试 | author: Scott the VRNerd ☀️🌎🌑 / @TheVRNerd | source: https://x.com/TheVRNerd/status/2118157641843175466 | preview: https://oss-us.gptproto.com/2026/11/05/4e6c3de5056e435c8bab30534b860dfc.gif | heat: 2 | tier: 1
+- 61. Images 2.6 author-run GIF | title_zh: Images 2.6 作者实测 GIF | author: Lucy / @princess414141 | source: https://x.com/princess414141/status/2118144125354877152 | preview: https://oss-us.gptproto.com/2026/11/05/0a434cb3c1e74834953f28a03da7e813.gif | heat: 13 | tier: 1
+- 62. LINE-sticker-style one-click GIF | title_zh: LINE 贴纸风一键 GIF | author: ギガビット@ゲームつくるひと / @gigabit_million | source: https://x.com/gigabit_million/status/2118220705879986682 | preview: https://oss-us.gptproto.com/2026/11/05/06c86fea94474c8bb84bc076e4475529.gif | heat: 4 | tier: 1
+- 63. GIF creation feature trial | title_zh: GIF 创建功能试用 | author: とらの / @TlanoAI | source: https://x.com/TlanoAI/status/2118171048634134838 | preview: https://oss-us.gptproto.com/2026/11/05/0f40c4fa3e2643f3b3ad409c87031fe3.gif | heat: 69 | tier: 1
+- 64. Community character GIF (2) | title_zh: 社区角色 GIF（二） | author: Awesome / @youzhamer | source: https://x.com/youzhamer/status/2118222018168635769 | preview: https://oss-us.gptproto.com/2026/11/05/6ffaa4349486487da6fcf304864c2040.gif | heat: 0 | tier: 1
+- 65. Community character GIF (1) | title_zh: 社区角色 GIF（一） | author: Awesome / @youzhamer | source: https://x.com/youzhamer/status/2118221881396560038 | preview: https://oss-us.gptproto.com/2026/11/05/a7b007a5e639460190d8a1058461a4c7.gif | heat: 0 | tier: 1
+- 66. AI illustration GIF test (2) | title_zh: AI 插画 GIF 测试（二） | author: IT navi / @itnavi2022 | source: https://x.com/itnavi2022/status/2118137649152360622 | preview: https://oss-us.gptproto.com/2026/11/05/11f4c66d817344b9b83f351dbc44149e.gif | heat: 9 | tier: 1
+- 67. AI illustration GIF test (1) | title_zh: AI 插画 GIF 测试（一） | author: IT navi / @itnavi2022 | source: https://x.com/itnavi2022/status/2118135886366003579 | preview: https://oss-us.gptproto.com/2026/11/05/299af46971a24d7dbe2f1a78a459e6f7.gif | heat: 3 | tier: 1
+- 68. Joy-anger-sorrow-happiness expression GIF | title_zh: 喜怒哀樂表情 GIF | author: テツメモ｜AI図解×検証｜Newsletter / @tetumemo | source: https://x.com/tetumemo/status/2118131900929941837 | preview: https://oss-us.gptproto.com/2026/11/05/5d96f0d7b66d420ba917a7bb651fe39c.gif | heat: 1 | tier: 1
+- 69. Images 2.6 four-GIF test (piece 1) | title_zh: Images 2.6 四组 GIF 实测（作品 1） | author: 云野 / @Cg3Jvf | source: https://x.com/Cg3Jvf/status/2118198568049889348 | preview: https://oss-us.gptproto.com/2026/11/05/312ec9b5c1694eda80978ffef47918e3.gif | heat: 0 | tier: 1
+- 70. Images 2.6 four-GIF test (piece 2) | title_zh: Images 2.6 四组 GIF 实测（作品 2） | author: 云野 / @Cg3Jvf | source: https://x.com/Cg3Jvf/status/2118198568049889348 | preview: https://oss-us.gptproto.com/2026/11/05/b02d571543fe43d48e3e864df0dd49f8.gif | heat: 0 | tier: 1
+- 71. Images 2.6 four-GIF test (piece 3) | title_zh: Images 2.6 四组 GIF 实测（作品 3） | author: 云野 / @Cg3Jvf | source: https://x.com/Cg3Jvf/status/2118198568049889348 | preview: https://oss-us.gptproto.com/2026/11/05/90307e6dc91946829ba1854708cfd2bb.gif | heat: 0 | tier: 1
+- 72. Images 2.6 four-GIF test (piece 4) | title_zh: Images 2.6 四组 GIF 实测（作品 4） | author: 云野 / @Cg3Jvf | source: https://x.com/Cg3Jvf/status/2118198568049889348 | preview: https://oss-us.gptproto.com/2026/11/05/7d8993e57541475aa955a23f8d4a3fee.gif | heat: 0 | tier: 1
+
+### character — Characters & anime (12)
+
+- 73. Character GIF continuing an existing art style | title_zh: 既有画风延续的角色 GIF | author: ルクスン｜Luxsun / @luxsun_ai | source: https://x.com/luxsun_ai/status/2118154195023052827 | preview: https://oss-us.gptproto.com/2026/11/05/2fc79fe6c6b843b49f6c66c14c5d11de.gif | heat: 8 | tier: 1
+- 74. Sprite-sheet frame-count & split test (piece 1) | title_zh: 精灵图帧数与拆分测试（作品 1） | author: 乃々のえる / @elle_elle_e | source: https://x.com/elle_elle_e/status/2118180034561368278 | preview: https://oss-us.gptproto.com/2026/11/05/fd362a883fc64de2bab529a029482327.gif | heat: 29 | tier: 1
+- 75. Sprite-sheet frame-count & split test (piece 2) | title_zh: 精灵图帧数与拆分测试（作品 2） | author: 乃々のえる / @elle_elle_e | source: https://x.com/elle_elle_e/status/2118180034561368278 | preview: https://oss-us.gptproto.com/2026/11/05/f2e14c2ba8a7465396086be3fc73e037.gif | heat: 29 | tier: 1
+- 76. GIF feature trial piece | title_zh: GIF 功能试用作品 | author: ボブ・ゼ太郎 / @zeowota | source: https://x.com/zeowota/status/2118158596332822671 | preview: https://oss-us.gptproto.com/2026/11/05/4afb17cc0b13493d879b13220cb0b01e.gif | heat: 4 | tier: 1
+- 77. Single-prompt animated GIF showcase | title_zh: 单 Prompt 动画 GIF 展示 | author: Milan / @MilanGlow | source: https://x.com/MilanGlow/status/2118195019974902094 | preview: https://oss-us.gptproto.com/2026/11/05/d97da5ea8c884c648ad810a08316cd14.gif | heat: 1 | tier: 1
+- 78. Pixel-art GIF test | title_zh: 像素画 GIF 测试 | author: Y6 / @SourPomeloY6 | source: https://x.com/SourPomeloY6/status/2118212087516450945 | preview: https://oss-us.gptproto.com/2026/11/05/be51cc420de04653be736b9ebacb152c.gif | heat: 0 | tier: 1
+- 79. Gajimon & Tawoo character GIF | title_zh: ガジモン与タヲォ角色 GIF | author: 輪廻タヲ👁️‍🗨️👄👁️‍🗨️ / @TaoRInne | source: https://x.com/TaoRInne/status/2118215662820892698 | preview: https://oss-us.gptproto.com/2026/11/05/6867498bc9f34b439259ef9ac230bded.gif | heat: 19 | tier: 1
+- 80. Background flicker issue GIF | title_zh: 背景闪烁问题 GIF | author: ジャージャー / @piyoroppi | source: https://x.com/piyoroppi/status/2118215424102052149 | preview: https://oss-us.gptproto.com/2026/11/05/e0b0b206623d4ba989941494c9412043.gif | heat: 0 | tier: 1
+- 81. Iron Mountain lean move GIF test | title_zh: 铁山靠动作 GIF 测试 | author: 凹凸Man / @WillPan6q | source: https://x.com/WillPan6q/status/2118223766367162478 | preview: https://oss-us.gptproto.com/2026/11/05/a65f8d9ee1844dfabe9aa262d2bf3a23.gif | heat: 6 | tier: 1
+- 82. Quality & finger-consistency test | title_zh: 画质与手指一致性实测 | author: AIとノートの実験室｜AIでつくる・試す / @ai_note_lab_jp | source: https://x.com/ai_note_lab_jp/status/2118189330741231653 | preview: https://oss-us.gptproto.com/2026/11/05/9f414aebddc34a3bb9a52ffffe10160a.gif | heat: 1 | tier: 1
+- 83. AI-07 character brought to life | title_zh: AI-07 角色动态化 | author: ぜんぶ俺 / @zenbu_ore2026 | source: https://x.com/zenbu_ore2026/status/2118224078163345515 | preview: https://oss-us.gptproto.com/2026/11/05/58d0d67baa94417fb322c42b2b84a081.gif | heat: 1 | tier: 1
+- 84. Flare API native GIF technical test | title_zh: Flare API 原生 GIF 技术实测 | author: Kakiponzu 🐚 AI Pose Lab / @KakiponzuX | source: https://x.com/KakiponzuX/status/2118183717512306775 | preview: https://oss-us.gptproto.com/2026/11/05/018100fe8456484ab95ea7d1aee94536.gif | heat: 0 | tier: 1
+
+### animal — Animals & pets (13)
+
+- 85. 12-shot storyboard stitched into a GIF | title_zh: 12 个分镜场景合成 GIF | author: Mr Das / @MrDasCreates | source: https://x.com/MrDasCreates/status/2118217866625663466 | preview: https://oss-us.gptproto.com/2026/11/05/3dc3889a825642b3b95eda27d2211c4b.gif | heat: 9 | tier: 1
+- 86. Midjourney still turned into an Images 2.6 GIF | title_zh: Midjourney 图像结合 Images 2.6 GIF | author: Jamian Gerard / @JamianGerard | source: https://x.com/JamianGerard/status/2118190604454649880 | preview: https://oss-us.gptproto.com/2026/11/05/5c17c64dc90446e7aa82ae45cb79b1d6.gif | heat: 22 | tier: 1
+- 87. Cat and rocket GIF | title_zh: 猫与火箭 GIF | author: Vansh Mohan / @vansmohan | source: https://x.com/vansmohan/status/2118186907444416571 | preview: https://oss-us.gptproto.com/2026/11/05/2a94e0157f434c6faf3f325b7f883d6a.gif | heat: 0 | tier: 1
+- 88. Animal Fight Club | title_zh: 动物搏击俱乐部 | author: Archiefff / @baiji57165 | source: https://x.com/baiji57165/status/2118176096089002333 | preview: https://oss-us.gptproto.com/2026/11/05/6b6afdfd36154b22bcf2920db17fcb51.gif | heat: 2 | tier: 1
+- 89. VideoProc four-GIF test (piece 1) | title_zh: VideoProc 四组 GIF 实测（作品 1） | author: VideoProc AI / @ProcVideo | source: https://x.com/ProcVideo/status/2118170980254351616 | preview: https://oss-us.gptproto.com/2026/11/05/1c61a4a266734808b4fc7e24cc26e111.gif | heat: 0 | tier: 1
+- 90. VideoProc four-GIF test (piece 4) | title_zh: VideoProc 四组 GIF 实测（作品 4） | author: VideoProc AI / @ProcVideo | source: https://x.com/ProcVideo/status/2118170980254351616 | preview: https://oss-us.gptproto.com/2026/11/05/efe35429075544abb65e286985190298.gif | heat: 0 | tier: 1
+- 91. Images 2.6 author-run GIF | title_zh: Images 2.6 作者实测 GIF | author: Nektali / @Nektaliasi | source: original post deleted by author; profile https://x.com/Nektaliasi | preview: https://oss-us.gptproto.com/2026/11/05/c0cb66638e1e43f4a291fea8d25196a1.gif | heat: 0 | tier: 1
+- 92. HoBo the cat GIF | title_zh: 猫咪 HoBo GIF | author: Shaun Ralston / @shaunralston | source: https://x.com/shaunralston/status/2118200799910384083 | preview: https://oss-us.gptproto.com/2026/11/05/d57abb8a90784157a818e1feb99a71d5.gif | heat: 0 | tier: 1
+- 93. Lobster typing on a night-shift desk | title_zh: 夜班工位敲键盘的龙虾 | author: 0xTimi / @crypto20c_ | source: https://x.com/crypto20c_/status/2118209923100320102 | preview: https://oss-us.gptproto.com/2026/11/05/4ca8164b20d544cea9be29436e2b9603.gif | heat: 1 | tier: 1
+- 94. Sunburst GIF test | title_zh: Sunburst GIF 实测 | author: ９６@ダクビー / @96_FX_ | source: https://x.com/96_FX_/status/2118219299655741575 | preview: https://oss-us.gptproto.com/2026/11/05/9c82ddba3c964c8ba8e59b15a88cc483.gif | heat: 0 | tier: 1
+- 95. GIF quality & prompting tips test | title_zh: GIF 效果与提示技巧测试 | author: 🄰🄸と🄳ㄜƕ™ 𓃙 ᴅɪᴍᴇɴsɪᴏɴᴡᴏʀᴋs ʟʟᴄ / @dimensionsworks | source: https://x.com/dimensionsworks/status/2118202578655998264 | preview: https://oss-us.gptproto.com/2026/11/05/be18ff0a452d422197372ef4a07ff37c.gif | heat: 1 | tier: 1
+- 96. Native GIF test without Python stitching | title_zh: 无需 Python 拼接的原生 GIF 测试 | author: ヒサ / @hisayuki | source: https://x.com/hisayuki/status/2118129267024519346 | preview: https://oss-us.gptproto.com/2026/11/05/aea98903e17d4238a0e9451046eb367d.gif | heat: 2 | tier: 1
+- 97. Images 2.6 generation test | title_zh: Images 2.6 生成实测 | author: nogu / @_nogu66 | source: https://x.com/_nogu66/status/2118172331080286353 | preview: https://oss-us.gptproto.com/2026/11/05/a8a9aa33d49e4efe8dcf34683ca400c5.gif | heat: 3 | tier: 1
+
+### people — People & photoreal (14)
+
+- 98. GIF feature trial piece | title_zh: GIF 功能试用作品 | author: 俺の娘たち / プロンプトの人 / @oreno_musume | source: https://x.com/oreno_musume/status/2118176265366864349 | preview: https://oss-us.gptproto.com/2026/11/05/23ecd57b8b6d49c3951604e4153bb5f3.gif | heat: 15 | tier: 1
+- 99. VideoProc four-GIF test (piece 2) | title_zh: VideoProc 四组 GIF 实测（作品 2） | author: VideoProc AI / @ProcVideo | source: https://x.com/ProcVideo/status/2118170980254351616 | preview: https://oss-us.gptproto.com/2026/11/05/a6760f39c1b44c26b49d1ed2a721ceba.gif | heat: 0 | tier: 1
+- 100. VideoProc four-GIF test (piece 3) | title_zh: VideoProc 四组 GIF 实测（作品 3） | author: VideoProc AI / @ProcVideo | source: https://x.com/ProcVideo/status/2118170980254351616 | preview: https://oss-us.gptproto.com/2026/11/05/7238b7ea198e429488b686f0f465ca9e.gif | heat: 0 | tier: 1
+- 101. Images 2.6 community creation GIF | title_zh: Images 2.6 社区创作 GIF | author: Egline Samoei / @Egline_Samoei | source: https://x.com/Egline_Samoei/status/2118191964558360960 | preview: https://oss-us.gptproto.com/2026/11/05/44df84e3e926492aad25e6d6d17c6546.gif | heat: 5 | tier: 1
+- 102. Running person face-consistency test | title_zh: 人物跑步与脸部一致性测试 | author: 兴雨 / @YxzRainy | source: https://x.com/YxzRainy/status/2118216179030569181 | preview: https://oss-us.gptproto.com/2026/11/05/991c88464e40447f9970c8c67adc7555.gif | heat: 18 | tier: 1
+- 103. Instant-mode GIF generation test | title_zh: Instant 模式 GIF 生成测试 | author: raf / @RaphaelOrlev | source: https://x.com/RaphaelOrlev/status/2118213556332101934 | preview: https://oss-us.gptproto.com/2026/11/05/83314651729a407b9287efd9fe9b6efe.gif | heat: 0 | tier: 1
+- 104. GIF attached to a 64-frame capability discussion | title_zh: 64 帧能力讨论所附 GIF | author: eliohead / @machmadera | source: original post deleted by author; profile https://x.com/machmadera | preview: https://oss-us.gptproto.com/2026/11/05/2c00e2894af64de89d319bd4fb2ac9af.gif | heat: 0 | tier: 1
+- 105. GPT Image 2.6 animation test | title_zh: GPT Image 2.6 动画实测 | author: 梶田 | 株式会社闇 / @kajita_horror | source: https://x.com/kajita_horror/status/2118220916748607814 | preview: https://oss-us.gptproto.com/2026/11/05/526c38aff41e4920accef0e1650d03a3.gif | heat: 18 | tier: 1
+- 106. GIF from the Flare/Sunburst 32-set benchmark | title_zh: Flare/Sunburst 32 组基准中的 GIF | author: ILIAS ISM / @illyism | source: https://x.com/illyism/status/2118219228897804288 | preview: https://oss-us.gptproto.com/2026/11/05/2b8d797eb95646a59c735a86d65abbbb.gif | heat: 23 | tier: 1
+- 107. Frame-count & size comparison GIF (piece 1) | title_zh: 帧数与尺寸对照 GIF（作品 1） | author: 藍澤 ミライ / @mirai_ai2050 | source: https://x.com/mirai_ai2050/status/2118213713761292432 | preview: https://oss-us.gptproto.com/2026/11/05/7399dc69125a419bafc36e0931661be0.gif | heat: 15 | tier: 1
+- 108. Frame-count & size comparison GIF (piece 2) | title_zh: 帧数与尺寸对照 GIF（作品 2） | author: 藍澤 ミライ / @mirai_ai2050 | source: https://x.com/mirai_ai2050/status/2118213713761292432 | preview: https://oss-us.gptproto.com/2026/11/05/8aa34292af3c4486bea5dbc2a26e1cd7.gif | heat: 15 | tier: 1
+- 109. Ram Altman character GIF | title_zh: Ram Altman 角色 GIF | author: ITエンジニャア / @enginyaeer | source: https://x.com/enginyaeer/status/2118175877041422846 | preview: https://oss-us.gptproto.com/2026/11/05/26510bbe9ff1434d8d4b94d57b4faac0.gif | heat: 0 | tier: 1
+- 110. Low-frame-count character GIF experiment | title_zh: 低帧数角色 GIF 实验 | author: ちょうどいいAIクリエイター / @oden_ai_ai | source: https://x.com/oden_ai_ai/status/2118160946598408392 | preview: https://oss-us.gptproto.com/2026/11/05/99e0bcd5530c491d9c7038153024439f.gif | heat: 41 | tier: 1
+- 111. Same piece at 1× and 2× speed (counted as one) | title_zh: 同作品等速与二倍速 GIF（按一作品计） | author: AIconia | アイコニア / @AiPhotorealGirl | source: https://x.com/AiPhotorealGirl/status/2118143245549293913 | preview: https://oss-us.gptproto.com/2026/11/05/ea530403319f4c04aa18a8d16cc558fd.gif | heat: 10 | tier: 1
+
+### i2g — Image-to-GIF (5)
+
+- 112. Bring your own drawn character to life | title_zh: 自己画的角色动起来 | author: おうち / Ochi（別室）/ @ouchi030 | source: https://x.com/ouchi030/status/2118173542546342296 | preview: https://oss-us.gptproto.com/2026/11/05/cb57f43e059e4007abf9ba1a77f1d974.gif | heat: 0 | tier: 1
+- 113. Image-to-GIF and reference-image test | title_zh: 图片转 GIF 与参考图测试 | author: dilemma 🕷️ / @dilemma017 | source: https://x.com/dilemma017/status/2118190349042544650 | preview: https://oss-us.gptproto.com/2026/11/05/177ce89776ab4e3e9ad5ccdfe0017277.gif | heat: 1 | tier: 1
+- 114. Single source image turned into a GIF | title_zh: 单张来源图转 GIF | author: PromptlyAI / @PromptlyAI_YT | source: https://x.com/PromptlyAI_YT/status/2118210158769926388 | preview: https://oss-us.gptproto.com/2026/11/05/926071ee74ed4c628443d4d2751a8bb1.gif | heat: 1 | tier: 1
+- 115. Reference-to-GIF & sprite-sheet workflow (piece 2) | title_zh: 参考图转 GIF 与精灵图方式（作品 2） | author: yuA｜AIで収入の柱をつくる実践記 / @daifuku_ailover | source: https://x.com/daifuku_ailover/status/2118224031518454108 | preview: https://oss-us.gptproto.com/2026/11/05/5f36dc9530914362825ffd7be9029c7c.gif | heat: 0 | tier: 1
+- 116. Still character turned into a looping GIF | title_zh: 静止角色转循环 GIF | author: G2（じーにー）｜AIビジネス翻訳家 / @aiclass_g2 | source: https://x.com/aiclass_g2/status/2118182833105895708 | preview: https://oss-us.gptproto.com/2026/11/05/907910789b84432db657b589ea638f4f.gif | heat: 2 | tier: 1
+
+### product — Product & brand (7)
+
+- 117. Revor AI logo in motion | title_zh: Revor AI Logo 动态化 | author: Steve Liu / @Steve_GTM | source: https://x.com/Steve_GTM/status/2118160292169519147 | preview: https://oss-us.gptproto.com/2026/11/05/2c6035f8190f4311b9a9c36883dd6a21.gif | heat: 0 | tier: 1
+- 118. AI model comparison dashboard motion concept | title_zh: AI 模型比较 Dashboard 动态概念 | author: Uncredited | source: https://felo.ai/blog/gpt-image-2-6-flare-sunburst/ | preview: https://oss-us.gptproto.com/2026/11/05/98bbfadf5936415890f2daf989f1345e.gif | heat: 0 | tier: 5
+- 119. Limora brand mascot GIF | title_zh: Limora 品牌吉祥物 GIF | author: Adrien Ninet / @adrien_ninet | source: https://x.com/adrien_ninet/status/2118205092667290060 | preview: https://oss-us.gptproto.com/2026/11/05/5b266f86217d429991c9a296f31ac23c.gif | heat: 2 | tier: 1
+- 120. Lightweight quick GIF generation test | title_zh: 轻量 GIF 快速生成测试 | author: Kick＠AnyGrab｜人材育成・スキルアップ / @anygrab_kick | source: https://x.com/anygrab_kick/status/2118211945321074933 | preview: https://oss-us.gptproto.com/2026/11/05/5d79fa6fa41f46c6a12324a327b86e3f.gif | heat: 0 | tier: 1
+- 121. “Behind one submission” profile GIF | title_zh: “一篇投稿的背后”个人资料 GIF | author: 小春｜みならいAI秘書 / @koharu_ai_diary | source: https://x.com/koharu_ai_diary/status/2118204859090657612 | preview: https://oss-us.gptproto.com/2026/11/05/939280d30c1946f5ac605bd72eb9f9c1.gif | heat: 10 | tier: 1
+- 122. Same prompt, minimal dashboard | title_zh: 同 Prompt 极简 Dashboard | author: LLMLearner / @LLMLearnerAI | source: https://x.com/LLMLearnerAI/status/2118159445331227055 | preview: https://oss-us.gptproto.com/2026/11/05/bf905630cba44fc2bac6ec053f680f81.gif | heat: 2 | tier: 1
+- 123. AI model comparison dashboard (neon) | title_zh: AI 模型比较 Dashboard（霓虹风） | author: LLMLearner / @LLMLearnerAI | source: https://x.com/LLMLearnerAI/status/2118148027110334544 | preview: https://oss-us.gptproto.com/2026/11/05/3209b4b6120b4b28a85b2ea6798559b2.gif | heat: 2 | tier: 1
+
+### scene — Scenes & worlds (6)
+
+- 124. Day-one simple reaction GIF test (piece 1) | title_zh: 首日 GIF 简易反应图测试（作品 1） | author: Johnny Wang / @JohnnyWang8802 | source: https://x.com/JohnnyWang8802/status/2118196724263190704 | preview: https://oss-us.gptproto.com/2026/11/05/5fc35776b8114064863276cdb03e4226.gif | heat: 0 | tier: 1
+- 125. Day-one simple reaction GIF test (piece 2) | title_zh: 首日 GIF 简易反应图测试（作品 2） | author: Johnny Wang / @JohnnyWang8802 | source: https://x.com/JohnnyWang8802/status/2118196724263190704 | preview: https://oss-us.gptproto.com/2026/11/05/1fd7c4fb8cef4e1ca68e08140612a3e2.gif | heat: 0 | tier: 1
+- 126. Day-one simple reaction GIF test (piece 3) | title_zh: 首日 GIF 简易反应图测试（作品 3） | author: Johnny Wang / @JohnnyWang8802 | source: https://x.com/JohnnyWang8802/status/2118196724263190704 | preview: https://oss-us.gptproto.com/2026/11/05/c7695f7df0894255bee40736d503fb47.gif | heat: 0 | tier: 1
+- 127. Day-one simple reaction GIF test (piece 4) | title_zh: 首日 GIF 简易反应图测试（作品 4） | author: Johnny Wang / @JohnnyWang8802 | source: https://x.com/JohnnyWang8802/status/2118196724263190704 | preview: https://oss-us.gptproto.com/2026/11/05/db2ebffd9f4a422a889a15488b6f83f1.gif | heat: 0 | tier: 1
+- 128. Procedural world-growth GIF | title_zh: 程序化世界生长 GIF | author: Krzysztof Deptula / @deptulaaa | source: https://x.com/deptulaaa/status/2118209686529049067 | preview: https://oss-us.gptproto.com/2026/11/05/56783ecd413b4092a900385b5d90c7ad.gif | heat: 4 | tier: 1
+- 129. Example GIF for article use | title_zh: 文章用途示例 GIF | author: 伊藤貴將（いとぱん）｜AI創作ラボ 仲間募集中🤝 / @takamasa045 | source: https://x.com/takamasa045/status/2118218622632128657 | preview: https://oss-us.gptproto.com/2026/11/05/bd14de7bcdff488689d89e08b0634a74.gif | heat: 8 | tier: 1
+
+### game — Pixel & games (3)
+
+- 130. Pixel animation GIF test | title_zh: 像素动画 GIF 测试 | author: おっさん / @AI_Ossan | source: https://x.com/AI_Ossan/status/2118224130185240777 | preview: https://oss-us.gptproto.com/2026/11/05/2f9174fe9d9548dc98e442fda34cce62.gif | heat: 0 | tier: 1
+- 131. GBA Castlevania-style GIF | title_zh: 仿 GBA 恶魔城风 GIF | author: ToAPIs / @MaddieSmitxfs1 | source: https://x.com/MaddieSmitxfs1/status/2118221316818149571 | preview: https://oss-us.gptproto.com/2026/11/05/a4bb3fddd169414d96bcaad084e19341.gif | heat: 3 | tier: 1
+- 132. Complex character & background GIF test | title_zh: 复杂角色与背景 GIF 测试 | author: ヒサ / @hisayuki | source: https://x.com/hisayuki/status/2118149338295943550 | preview: https://oss-us.gptproto.com/2026/11/05/1f5d8114622f4f07a39805173701b771.gif | heat: 3 | tier: 1
+
+### technical — Tutorials & parameters (3)
+
+- 133. Seamless looping bouncing ball | title_zh: 可循环的弹跳球 | author: Nilaier / @NilaierMusic | source: https://x.com/NilaierMusic/status/2118137564590747708 | preview: https://oss-us.gptproto.com/2026/11/05/86666e8c2df848c78afbdf66d45b796d.gif | heat: 3 | tier: 1
+- 134. Standing backflip: Flare complexity three-way comparison | title_zh: 站立后空翻：Flare 三档 complexity 对照 | author: Uncredited | source: https://felo.ai/blog/gpt-image-2-6-flare-sunburst/ | preview: https://oss-us.gptproto.com/2026/11/05/ffb3c4af14ba44f583d0823b8d97bd86.gif | heat: 0 | tier: 5
+- 135. Lab researcher: Flare complexity three-way comparison | title_zh: 实验室研究员：Flare 三档 complexity 对照 | author: Uncredited | source: https://felo.ai/blog/gpt-image-2-6-flare-sunburst/ | preview: https://oss-us.gptproto.com/2026/11/05/ea95d501679147b182841f56d16aa0e6.gif | heat: 0 | tier: 5
+
+### article — Press & reviews (4)
+
+- 136. Glass butterfly with synced wing shadows | title_zh: 玻璃蝴蝶与同步翼影 | author: AI范儿 | source: https://m.163.com/dy/article/LAVAHIE20556703U.html | heat: 0 | tier: 9
+- 137. SOL perfume ad loop | title_zh: SOL 香水广告循环 | author: AI范儿 | source: https://m.163.com/dy/article/LAVAHIE20556703U.html | heat: 0 | tier: 9
+- 138. Rainy-night girl petting a Shiba Inu | title_zh: 雨夜女孩抚摸柴犬 | author: AI范儿 | source: https://m.163.com/dy/article/LAVAHIE20556703U.html | heat: 0 | tier: 9
+- 139. Canyon waterfall, mist, and ripples | title_zh: 峡谷瀑布、水雾与涟漪 | author: AI范儿 | source: https://m.163.com/dy/article/LAVAHIE20556703U.html | heat: 0 | tier: 9

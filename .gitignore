@@ -1,0 +1,17 @@
+# This repo publishes the prompts guide only (README, translations, llms.txt).
+# Build tooling and source data are kept outside the repo and must not be committed.
+catalog/
+data/
+scripts/
+node_modules/
+package.json
+package-lock.json
+*.log
+.DS_Store
+.env*
+
+# local working files
+/source_data/
+/uploads/
+/terminals/
+AGENTS.md
